@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Veg chowmein",
+        "meal_id": 14,
+        "type": "veg",
+        "num_of_orders": 70,
+        "offer": false,
+        "base_price": 120,
+        "checkout_price": 120,
+        "ratings": 5,
+        "delivery_time": 17,
+        "time": "1/12/2023",
+        "location": "kupondole"
+    },
+    "meta": {}
+  }

@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Panner tarkari",
+        "meal_id": 10,
+        "type": "veg",
+        "num_of_orders": 58,
+        "offer": false,
+        "base_price": 70,
+        "checkout_price": 70,
+        "ratings": 5,
+        "delivery_time": 27,
+        "time": "1/8/2023",
+        "location": "kupondole"
+    },
+    "meta": {}
+  }

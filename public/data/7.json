@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Sukka roti",
+        "meal_id": 7,
+        "type": "veg",
+        "num_of_orders": 60,
+        "offer": false,
+        "base_price": 15,
+        "checkout_price": 15,
+        "ratings": 4,
+        "delivery_time": 28,
+        "time": "1/5/2023",
+        "location": "kalanki"
+    },
+    "meta": {}
+  }

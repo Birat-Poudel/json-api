@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Egg chowmein",
+        "meal_id": 16,
+        "type": "non-veg",
+        "num_of_orders": 64,
+        "offer": false,
+        "base_price": 130,
+        "checkout_price": 130,
+        "ratings": 5,
+        "delivery_time": 55,
+        "time": "1/14/2023",
+        "location": "gaushala"
+    },
+    "meta": {}
+  }

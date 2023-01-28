@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Chicken momo",
+        "meal_id": 2,
+        "type": "non-veg",
+        "num_of_orders": 77,
+        "offer": true,
+        "base_price": 150,
+        "checkout_price": 135,
+        "ratings": 5,
+        "delivery_time": 45,
+        "time": "1/1/2023",
+        "location": "kupondole"
+    },
+    "meta": {}
+  }

@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Samosa tarkari",
+        "meal_id": 17,
+        "type": "veg",
+        "num_of_orders": 78,
+        "offer": true,
+        "base_price": 80,
+        "checkout_price": 72,
+        "ratings": 5,
+        "delivery_time": 41,
+        "time": "1/15/2023",
+        "location": "baneshwor"
+    },
+    "meta": {}
+  }

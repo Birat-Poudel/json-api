@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Tarkari",
+        "meal_id": 5,
+        "type": "veg",
+        "num_of_orders": 54,
+        "offer": true,
+        "base_price": 30,
+        "checkout_price": 27,
+        "ratings": 4,
+        "delivery_time": 44,
+        "time": "1/3/2023",
+        "location": "baneshwor"
+    },
+    "meta": {}
+  }

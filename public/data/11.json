@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Veg burger",
+        "meal_id": 11,
+        "type": "veg",
+        "num_of_orders": 70,
+        "offer": false,
+        "base_price": 120,
+        "checkout_price": 120,
+        "ratings": 5,
+        "delivery_time": 42,
+        "time": "1/9/2023",
+        "location": "kalanki"
+    },
+    "meta": {}
+  }

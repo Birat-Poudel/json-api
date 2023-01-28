@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Veg momo",
+        "meal_id": 1,
+        "type": "veg",
+        "num_of_orders": 58,
+        "offer": true,
+        "base_price": 100,
+        "checkout_price": 90,
+        "ratings": 4,
+        "delivery_time": 30,
+        "time": "1/1/2023",
+        "location": "baneshwor"
+    },
+    "meta": {}
+  }

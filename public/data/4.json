@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Samosa",
+        "meal_id": 4,
+        "type": "veg",
+        "num_of_orders": 94,
+        "offer": true,
+        "base_price": 25,
+        "checkout_price": 22.5,
+        "ratings": 4,
+        "delivery_time": 20,
+        "time": "1/2/2023",
+        "location": "gaushala"
+    },
+    "meta": {}
+  }

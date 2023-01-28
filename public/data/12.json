@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Chicken burger",
+        "meal_id": 12,
+        "type": "non-veg",
+        "num_of_orders": 78,
+        "offer": false,
+        "base_price": 160,
+        "checkout_price": 160,
+        "ratings": 4,
+        "delivery_time": 30,
+        "time": "1/10/2023",
+        "location": "gaushala"
+    },
+    "meta": {}
+  }

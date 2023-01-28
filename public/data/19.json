@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Anda",
+        "meal_id": 19,
+        "type": "non-veg",
+        "num_of_orders": 59,
+        "offer": false,
+        "base_price": 25,
+        "checkout_price": 25,
+        "ratings": 4,
+        "delivery_time": 34,
+        "time": "1/17/2023",
+        "location": "kalanki"
+    },
+    "meta": {}
+  }

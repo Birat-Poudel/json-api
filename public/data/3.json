@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Paneer momo",
+        "meal_id": 3,
+        "type": "veg",
+        "num_of_orders": 70,
+        "offer": true,
+        "base_price": 130,
+        "checkout_price": 117,
+        "ratings": 5,
+        "delivery_time": 50,
+        "time": "1/1/2023",
+        "location": "kalanki"
+    },
+    "meta": {}
+  }

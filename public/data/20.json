@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Dhindo",
+        "meal_id": 20,
+        "type": "veg",
+        "num_of_orders": 58,
+        "offer": false,
+        "base_price": 100,
+        "checkout_price": 100,
+        "ratings": 4,
+        "delivery_time": 18,
+        "time": "1/18/2023",
+        "location": "gaushala"
+    },
+    "meta": {}
+  }

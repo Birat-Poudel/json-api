@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Chicken chowmein",
+        "meal_id": 15,
+        "type": "non-veg",
+        "num_of_orders": 66,
+        "offer": false,
+        "base_price": 150,
+        "checkout_price": 150,
+        "ratings": 4,
+        "delivery_time": 18,
+        "time": "1/13/2023",
+        "location": "kalanki"
+    },
+    "meta": {}
+  }

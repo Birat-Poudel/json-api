@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Pork burger",
+        "meal_id": 13,
+        "type": "non-veg",
+        "num_of_orders": 51,
+        "offer": false,
+        "base_price": 120,
+        "checkout_price": 120,
+        "ratings": 3,
+        "delivery_time": 19,
+        "time": "1/11/2023",
+        "location": "baneshwor"
+    },
+    "meta": {}
+  }

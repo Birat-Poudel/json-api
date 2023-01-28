@@ -1,0 +1,16 @@
+{
+    "data": {
+        "name": "Tandoori roti",
+        "meal_id": 8,
+        "type": "veg",
+        "num_of_orders": 67,
+        "offer": false,
+        "base_price": 25,
+        "checkout_price": 25,
+        "ratings": 5,
+        "delivery_time": 54,
+        "time": "1/6/2023",
+        "location": "gaushala"
+    },
+    "meta": {}
+  }
